@@ -99,4 +99,7 @@ h2{
     #social{
         text-align: center;
     }
+    .line-info,h2,#social{
+        display: block;
+    }
 }
