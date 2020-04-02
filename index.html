@@ -1,70 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <script src="js/jquery-3.4.1.min.js"></script>
-    <script src="js/animations.js"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>duongvanson.github.io</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <title>Sơn này</title>
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
+
 <body>
     <header>
-        <h1>XIN CHÀO, MÌNH LÀ <span class="my-name">SƠN DƯƠNG</span></h1>
-        <p id="intro">
-            Mình đang là sinh viên năm 4 tại trường ICTU.
-        </p>
+        <div class="header">
+            <h1 class="pad10 logo">Dương Văn Sơn</h1>
+            <hr>
+            <p><q class="pad10">Sự chia sẻ và tình yêu thương là điều quý giá nhất trên đời.</q></p>
+        </div>
     </header>
-    <section>
-        <article id="layout-left">
-            <img src="images/avatar-3.jpg" alt="Avatar" id="avatar">
-        </article>
-        <article id="layout-right">
-            <h2>Thông tin cá nhân</h2>
-            <section id="profile">
-                <article class="line-info">
-                    <label>Họ & tên: </label>
-                    <p class="info">Dương Văn Sơn</p>
-                </article>
-                <article class="line-info">
-                    <label>Ngày sinh: </label>
-                    <p class="info">03-01-1998</p>
-                </article>
-                <article class="line-info">
-                    <label>Quê quán: </label>
-                    <p class="info">Thạch Thất - TP. Hà Nội</p>
-                </article>
-                <article class="line-info">
-                    <label>Di động: </label>
-                    <p class="info">+84 35 489 1155</p>
-                </article>
-                <article class="line-info">
-                    <label>Email: </label>
-                    <p class="info">duongson.dev@gmail.com</p>
-                </article>
-            </section>
-            <h2>Liên kết xã hội</h2>
-            <section id="social">
-                <article class="line-social">
-                    <a href="https://fb.com/duongson3198" target="_blank">
-                        <img src="images/facebook.png" alt="facebook" title="Facebook: Sơn Dương">
-                    </a>
-                </article>
-                <article class="line-social">
-                    <a href="https://instagram.com/duongson98" target="_blank">
-                        <img src="images/instagram.png" alt="instagram" title="Instagram: Sơn Dương">
-                    </a>
-                </article>
-                <article class="line-social">
-                    <a href="https://www.youtube.com/channel/UCu382PQhF-gds6lzmYQgYPQ" target="_blank">
-                        <img src="images/youtube.png" alt="youtube" title="Youtube: Văn Sơn Dương">
-                    </a>
-                </article>
-            </section>
-        </article>
-    </section>
+    <nav>
+        <a href="#">Trang chủ</a>
+        <a href="#">Blog</a>
+        <a href="#">Cùng bạn bè</a>
+        <a href="#main">Giới thiệu</a>
+    </nav>
+    <div id="main">
+        <img src="assets/images/ha.jpg" alt="Hi" class="my-img">
+        <p>Xin chào! Mình là Sơn, mình hiện đang là sinh viên năm 4 của trường Đại học CNTT & TT. Mình đam mê công nghệ,
+            đặc biệt là lập trình. Mình cũng là một fan của nhạc rap nữa. ^_^</p>
+        <div id="social">
+            <a href="https://www.facebook.com/duongson3198" target="_blank"><img class="social"
+                    src="assets/images/facebook.png" alt="Facebook" title="Facebook"></a>
+            <a href="https://www.instagram.com/duongson98/" target="_blank"><img class="social"
+                    src="assets/images/instagram.png" alt="Instagram" title="Instagram"></a>
+            <a href="https://www.youtube.com/channel/UCu382PQhF-gds6lzmYQgYPQ" target="_blank"><img class="social"
+                    src="assets/images/youtube.png" alt="Youtube" title="Youtube"></a>
+        </div>
+    </div>
     <footer>
-        <p>Design by <span><a href="mailto:duongson.dev@gmail.com">@duongson.dev</a></span> - 2020</p>
+        <p>&copy; duongsondev</p>
     </footer>
 </body>
+
 </html>
