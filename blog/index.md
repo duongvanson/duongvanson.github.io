@@ -11,7 +11,8 @@ description: "Các bài blog"
 
 # Blog - Bài viết mới nhất
 
-- [Hello - Bài viết đầu tiên](/blog/hello)
+- [Tìm hiểu về Markdown](./tim-hieu-ve-markdown/index)
+- [Bài viết đầu tiên](./hello)
 
 > Follow me: [Facebook][fb] , [Instagram][ins] , [Youtube][yt]
 

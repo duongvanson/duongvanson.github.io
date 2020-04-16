@@ -6,7 +6,8 @@
 
 ## Bài viết mới nhất
 
-- [Hello - Bài viết đầu tiên](/blog/hello)
+- [Blog - Tìm hiểu về Markdown](./blog/tim-hieu-ve-markdown/index)
+- [Blog - Bài viết đầu tiên](./blog/hello)
 
 > Follow me: [Facebook][fb] , [Instagram][ins] , [Youtube][yt]
 

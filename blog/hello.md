@@ -17,7 +17,7 @@ description: "Bài viết đầu tiên"
 <div class="fb-like" data-href="https://duongvanson.github.io/blog/hello" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
 
 
-### Nội dung
+## Nội dung
 
 ![BLOG](../assets/images/blog.png "Ảnh: pixabay.com")
 
