@@ -6,6 +6,7 @@
 
 ## Bài viết mới nhất
 
+- [Blog - Sử dụng Multilevel List để đánh số thứ tự trong Word](./blog/su-dung-multilevel-list-de-danh-so-thu-tu-trong-word/index)
 - [Blog - Tìm hiểu về Markdown](./blog/tim-hieu-ve-markdown/index)
 - [Blog - Bài viết đầu tiên](./blog/hello)
 
